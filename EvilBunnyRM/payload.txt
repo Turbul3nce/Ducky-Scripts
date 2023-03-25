@@ -1,4 +1,4 @@
 # Script will enable winrm
-# script will dump creds
+# script will dump creds. perhaps with impacket or mimikatz
 # script will cleanup after itself
 
