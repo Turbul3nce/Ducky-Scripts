@@ -1,0 +1,4 @@
+# Script will enable winrm
+# script will dump creds
+# script will cleanup after itself
+
