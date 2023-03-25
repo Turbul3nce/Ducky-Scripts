@@ -1,5 +1,5 @@
 # README.md
-### DuckyScripts for Hak5 gear. Rubber Ducky and Bash Bunny. 
+### DuckyScripts for Hak5 gear: Rubber Ducky and Bash Bunny. 
 #### *Should only be used in authorized testing enviorments.  
 
 ## Demonstration Video
