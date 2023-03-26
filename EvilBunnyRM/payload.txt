@@ -4,7 +4,7 @@
 # Firmware:      >= 1.7
 
 # Script will enable winrm
-# script will dump creds. Perhaps with impacket or mimikatz
+# script will dump creds. Perhaps with impacket or mimikatz. Geti the wifi password(this may be useful).
 # script will cleanup after itself
  
 # Setup The Attack
