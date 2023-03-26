@@ -5,6 +5,8 @@
 
 # Script will enable winrm
 # script will dump creds. Perhaps with impacket or mimikatz. Geti the wifi password(this may be useful).
+# Different version of the script for Windows 10. Less security defaults in place than WIndows 11. 
+
 # script will cleanup after itself
  
 # Setup The Attack
